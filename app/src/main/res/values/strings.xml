@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArchitectureSample</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mail_address">メールアドレス</string>
+    <string name="mail_address_sample">example@example.com</string>
+    <string name="mail_address_error_incorrect_format">正しいメールアドレスでないようです。</string>
+    <string name="password">パスワード</string>
+    <string name="password_sample">●●●●●●</string>
+    <string name="password_error_shorter">%d文字足りません</string>
+    <string name="login">ログイン</string>
+    <string name="login_message">ログインしました！</string>
+</resources>
